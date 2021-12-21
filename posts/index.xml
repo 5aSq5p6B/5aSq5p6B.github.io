@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>记录每一点 on Love in</title>
+    <link>/posts/</link>
+    <description>Recent content in 记录每一点 on Love in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn-zh</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XXXXX</title>
+      <link>/posts/destruction-of-words/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/destruction-of-words/</guid>
+      <description>He moved over to the window </description>
+    </item>
+    
+  </channel>
+</rss>
